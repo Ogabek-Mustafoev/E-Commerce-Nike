@@ -37,11 +37,11 @@ export const heroapi = {
     { imgsrc: vcover3, clip: clip },
   ],
   sociallinks: [
-    { icon: facebook },
-    { icon: messenger },
-    { icon: instagram },
-    { icon: twitter },
-    { icon: youtube },
+    { icon: facebook, url: 'https://www.facebook.com/ogabek.mustafoyev.5/' },
+    { icon: instagram, url: 'https://www.instagram.com/mustafoev__ogabek/' },
+    { icon: messenger, url: 'https://www.messenger.com/' },
+    { icon: twitter, url: 'https://twitter.com/?lang=en' },
+    { icon: youtube, url: 'https://www.youtube.com/' },
   ],
 };
 
